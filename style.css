@@ -1,4 +1,16 @@
-html, body {
+;i.]              html, body {
   height: 100%;
   width: 100%;
 }
+body{background-color:#2d58d7;}
+.header{border-style: solid;
+       background-image:url("https://img.freepik.com/premium-vector/light-bulbs-seamless-background-creative-ideas-concept-website-creators-designers-vector-wallpaper-web-site-background_570429-315.jpg?w=1800");
+       
+  padding:100px;}
+.bio{margin:100px;
+     background-color:white;
+    border-style: solid;
+     position: absolute;
+  justify-content: flex-end;}
+ .nav{background-color:white;
+     border-style: solid;}
